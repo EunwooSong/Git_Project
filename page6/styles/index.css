@@ -1,0 +1,18 @@
+.img {
+    width : 300px;
+    height: 400px;
+    border-radius : 30%;
+    object-fit: contain;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+span {
+    word-break: normal;
+}
+
+.profile {
+    text-align: left;
+}
